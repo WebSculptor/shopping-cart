@@ -1,7 +1,7 @@
 export const products = [
   {
     _id: "1",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 1",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -10,7 +10,7 @@ export const products = [
   },
   {
     _id: "2",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 2",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -19,7 +19,7 @@ export const products = [
   },
   {
     _id: "3",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 3",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -28,7 +28,7 @@ export const products = [
   },
   {
     _id: "4",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 4",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -37,7 +37,7 @@ export const products = [
   },
   {
     _id: "5",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 5",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -46,7 +46,7 @@ export const products = [
   },
   {
     _id: "6",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 6",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -55,7 +55,7 @@ export const products = [
   },
   {
     _id: "7",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 7",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -64,7 +64,7 @@ export const products = [
   },
   {
     _id: "8",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 8",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -73,7 +73,7 @@ export const products = [
   },
   {
     _id: "9",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 9",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -82,7 +82,7 @@ export const products = [
   },
   {
     _id: "10",
-    image: "/demo.webp",
+    image: "/demo.jpeg",
     price: 300,
     name: "Product Name 10",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
